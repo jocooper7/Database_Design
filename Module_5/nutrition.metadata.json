@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"Cn code":{"$numberInt":"1"}},"name":"Cn code_1"},{"v":{"$numberInt":"2"},"key":{"Nutrients.Nutrient code":{"$numberInt":"1"}},"name":"Nutrients.Nutrient code_1"}],"uuid":"deeb0611839c4c8a8f5fd81214a3abca","collectionName":"nutrition","type":"collection"}
